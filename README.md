@@ -37,17 +37,17 @@ Work Plan:
 Roles & Responsibilities:
 
 Menna Faheem:
--Assigning tasks and monitoring team members.
--Design system
--Variables
--Low fidelity wireframing (Sketch)
--Mid fidelity wireframing
--Visual Design(Logo-Home screen+Badges-Chatbot-AI videos-Pyramids & Karnak Temple screens)
+- Assigning tasks and monitoring team members.
+- Design system
+- Variables
+- Low fidelity wireframing (Sketch)
+- Mid fidelity wireframing
+- Visual Design(Logo-Home screen+Badges-Chatbot-AI videos-Pyramids & Karnak Temple screens)
 
 Amira Ayman:
 - Design system
--Mid fidelity wireframe for ( Gem & Nmec places,profile,edit profile,settings,log out ,community,add story,messages)
--Visual Design (Gem,Nmec,philae,edfu,valley of the Kings,Abu simbel,profile,settings,log out,community,add story,edit profile,messages)
+- Mid fidelity wireframe for ( Gem & Nmec places,profile,edit profile,settings,log out ,community,add story,messages)
+- Visual Design (Gem,Nmec,philae,edfu,valley of the Kings,Abu simbel,profile,settings,log out,community,add story,edit profile,messages)
 - Persona
 - Empathy map
 - Switch between dark mode and light using components and prototyping
