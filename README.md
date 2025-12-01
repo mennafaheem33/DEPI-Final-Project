@@ -16,23 +16,23 @@ We wanted to create a solution that:
 This way, exploring Egypt becomes simple, engaging, and memorable.
 
 Team Members: 
-MENNA FAHEEM (TEAM LEADER)
-AMIRA AYMAN
-NADEEN ELSAYED
-SOHILA ELSAYED
-MARAM ELSAYED
+- MENNA FAHEEM (TEAM LEADER)
+- AMIRA AYMAN
+- NADEEN ELSAYED
+- SOHILA ELSAYED
+- MARAM ELSAYED
 
 Work Plan:
-1-Research &Analysis :
+1- Research &Analysis :
     Audience Personas
-2-visual identity :
+2- visual identity :
     Logo Design
-3-Main Design :
+3- Main Design :
     UI/UX Mobile App Design
-4-Complementry Products :
+4- Complementry Products :
     Videos with AI
 5- Review and Finalization.
-6-Final Presentation .
+6- Final Presentation .
 
 Roles & Responsibilities:
 
