@@ -60,19 +60,18 @@ Nadeen Elsayed:
 - Created button components (primary/secondary, light & dark modes)
 
 Sohila Elsayed:
-- Created user personas to guide design  
-- Built the design system & managed variables  
-- Designed wireframes (mid fidelity)  
-- Developed visual design (logo, App screens)  
+- Building the design system & managed variables  
+- Designed wireframes (Mid fidelity)  
+- Developed visual design (App screens)  
 - Prepared the final presentation and refined the case study with key edits  
 - Contributed to creating AI videos
 
 Maram Elsayed:
-- Designed wireframes (mid fidelity)  
-- Developed visual design (logo, app screens)  
-- Completed the case study and user persona  
+- Designed wireframes (Mid fidelity)  
+- Developed visual design (App screens)  
+- Completed the case study
 - Designed SOS screens  
-- Expanded case study (adding depth and visuals)
+- Expanded case study (Adding depth and visuals)
 
 Key Performance Indicators:
 - Success of the visual identity
